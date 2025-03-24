@@ -71,7 +71,6 @@ footer {
   padding: 40px 20px;
   background-color: #f9f9f9;
 }
-
 #partner h2 {
   color: red;
 }
@@ -79,4 +78,10 @@ footer {
 #partner p {
   font-size: 1.1em;
   margin-bottom: 20px;
+}
+.logo {
+  width: 180px;
+  height: auto;
+  margin: 20px auto 10px;
+  display: block;
 }
