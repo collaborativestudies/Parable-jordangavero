@@ -67,3 +67,16 @@ footer {
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
+#partner {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+#partner h2 {
+  color: red;
+}
+
+#partner p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
